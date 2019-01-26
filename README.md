@@ -3,7 +3,6 @@
 [![Software License](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)](LICENSE.md)
 [![Latest Stable Version](https://img.shields.io/badge/Version-stable-blue.svg?format=flat-square)](https://packagist.org/packages/ottosmops/ids)
 [![Build Status](https://travis-ci.com/ottosmops/ids.svg?branch=master)](https://travis-ci.com/ottosmops/ids)
-[![SensioLabsInsight](https://insight.sensiolabs.com/projects/248db8b3-4969-48c5-9a61-9c7346832ff0/mini.png)](https://insight.sensiolabs.com/projects/248db8b3-4969-48c5-9a61-9c7346832ff0)
 [![Packagist Downloads](https://img.shields.io/packagist/dt/ottosmops/ids.svg?style=flat-square)](https://packagist.org/packages/ottosmops/ids)
 
 
