@@ -7,7 +7,6 @@ use PHPUnit\Framework\TestCase;
 
 class ParseIdsTest extends TestCase
 {
-    /** test */
     public function test_it_parses_a_single_integer()
     {
         $expected = [3];
@@ -36,19 +35,19 @@ class ParseIdsTest extends TestCase
         $this->assertEquals($expected, $actual);
     }
 
-    public function test_it_thows_a_invalid_argument_exception()
+    public function test_it_throws_a_invalid_argument_exception()
     {
         $this->expectException(\InvalidArgumentException::class);
         Ids::parse("5--3");
     }
 
-    public function test_it_thows_a_invalid_argument_exception2()
+    public function test_it_throws_a_invalid_argument_exception2()
     {
         $this->expectException(\InvalidArgumentException::class);
         Ids::parse("hallo");
     }
 
-    public function test_it_thows_a_invalid_argument_exception3()
+    public function test_it_throws_a_invalid_argument_exception3()
     {
         $this->expectException(\InvalidArgumentException::class);
         Ids::parse("3&5");
