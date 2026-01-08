@@ -1,6 +1,6 @@
 # Parse ids to an array 
 
-[![Tests](https://github.com/ottosmops/ids/actions/workflows/tests.yml/badge.svg)](https://github.com/ottosmops/ids/actions/workflows/tests.yml)
+[![Tests](https://github.com/ottosmops/ids/actions/workflows/tests.yml/badge.svg?branch=master)](https://github.com/ottosmops/ids/actions/workflows/tests.yml)
 [![Software License](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)](LICENSE.md)
 [![Latest Stable Version](https://img.shields.io/packagist/v/ottosmops/ids.svg?style=flat-square)](https://packagist.org/packages/ottosmops/ids)
 [![Packagist Downloads](https://img.shields.io/packagist/dt/ottosmops/ids.svg?style=flat-square)](https://packagist.org/packages/ottosmops/ids)
